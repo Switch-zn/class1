@@ -9,3 +9,9 @@
     background-position: center;
     
 }
+
+.Man{
+    background-image: url(../src/assets/desktop-background-picture-nature-1920x1080-wallpaper-preview.jpg);
+    background-position: center;
+    background-size: cover;
+}

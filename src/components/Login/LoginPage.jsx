@@ -37,6 +37,7 @@ function LoginPage() {
         </form>
       </div>
     </div>
+   
   );
 }
 
